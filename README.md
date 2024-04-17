@@ -1,6 +1,6 @@
 # Caps_design
 
-####Script for semi-automatic design of CAPS markers from vcf file
+##Script for semi-automatic design of CAPS markers from vcf file
 
 All scripts can be downloaded from github() and all scripts are listed at the end of this Supplementary Methods. vcf file in the CAPS_marker_generater directory for MacOS and, If you place the reference genome file in the CAPS_marker_generater directory and double-click the Shell script 'vcf_caps_generater.command', the resulting file will be automatically output. For Linux OS, just execute the script in vcf_caps_generater,comman and the process will proceed.
 The following is an explanation of vcf_caps_generater.command. First, set the length of the sequence to be extracted from the fasta file of the genome and the length of the amplified fragment for primer design.
