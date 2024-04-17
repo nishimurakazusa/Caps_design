@@ -2,7 +2,7 @@
 
 ## Script for semi-automatic design of CAPS markers from vcf file  
 
-dependencies
+dependencies  
 Biostrings  <https://bioconductor.org/packages/release/bioc/html/Biostrings.html>  
 vcfR        <https://cran.r-project.org/web/packages/vcfR/index.html>  
 Seqkit      <https://bioinf.shenwei.me/seqkit/>  
