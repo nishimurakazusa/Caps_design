@@ -11,9 +11,9 @@ Primer3     <https://github.com/primer3-org/primer3>
 Vcf file in the CAPS_marker_generater directory for MacOS and, If you place the reference genome file in the CAPS_marker_generater directory and double-click the Shell script 'vcf_caps_generater.command', the resulting file will be automatically output. For Linux OS, just execute the script in vcf_caps_generater,comman and the process will proceed.
 The following is an explanation of vcf_caps_generater.command. First, set the length of the sequence to be extracted from the fasta file of the genome and the length of the amplified fragment for primer design.
 
-    `extract_length=900`  
-    `amplicon_length_min=400`  
-    `amplicon_length_max=600`  
+    extract_length=900  
+    amplicon_length_min=400  
+    amplicon_length_max=600  
 
 
 Next, get the path of the vcf and reference genome files and, if running as a Shell script, specify the paths of the corresponding files.
