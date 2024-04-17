@@ -61,7 +61,6 @@ Next, the extracted fasta file is used to create the input file for primer 3. At
 
 
 Script to summarize Primer3 results. After this script run, result_primer_list.csv is output.
-    `##Run primer3`
-    `Rscript must/summarize_primer_pairs.R`
-
-![image](https://github.com/nishimurakazusa/Caps_design/assets/46805695/42fc35a7-80d2-402b-8a87-4773e9b0c545)
+    ##Run primer3
+    Rscript must/summarize_primer_pairs.R
+    
