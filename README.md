@@ -6,9 +6,9 @@ All scripts can be downloaded from github() and all scripts are listed at the en
 The following is an explanation of vcf_caps_generater.command. First, set the length of the sequence to be extracted from the fasta file of the genome and the length of the amplified fragment for primer design.
 
 ------------------------------------
-extract_length=900
-amplicon_length_min=400
-amplicon_length_max=600
+`extract_length=900`
+`amplicon_length_min=400`
+`amplicon_length_max=600`
 ------------------------------------
 
 
