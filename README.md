@@ -1,6 +1,6 @@
 # Caps_design
 
-##Script for semi-automatic design of CAPS markers from vcf file  
+## Script for semi-automatic design of CAPS markers from vcf file  
 
 dependencies
 Biostrings  <https://bioconductor.org/packages/release/bioc/html/Biostrings.html>  
